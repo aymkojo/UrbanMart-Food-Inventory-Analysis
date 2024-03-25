@@ -99,3 +99,5 @@ UrbanMart must consider the temporal aspect of its operations. The perishable na
 All the best.  
  
 
+NB: some changes were made in both the data and tasks along the way by the supervisor. 
+Also, we were not to perform all the task but some hence why only a few analysis can be seen in my visualization.
